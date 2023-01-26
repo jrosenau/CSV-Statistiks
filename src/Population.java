@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Population {
+public class Population {
+    String [] name;
+    int [] gender;
+    int [] count;
+    int [] rank;
 }
